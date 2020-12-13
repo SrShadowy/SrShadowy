@@ -3,13 +3,13 @@
 
 
 Um programador autodidata desde os 10 anos de idade. Comecei minha jornada no mundo dos códigos VB.net, tecnologia proprietária da Microsoft com código simplista e usando a interface fácil de manejar do .NetFramework; seguindo um dos meus projetos que comecei e guardei nesta linha de sentindo é o [AppLauncher](https://github.com/SrShadowy/AppLauncher) uma aplicação simples para organização do desktop para o sistema da Microsoft. 
-Um dos meus hobbies é assistir anime e jogar alguns games RPG, gosto de ver como desenvolver uma historia de um protagonista que não tem nada,  aprende a se virar e se torna um grande como um herói. 🧙‍ 🦸‍
+Um dos meus hobbies é assistir a anime e jogar alguns games RPG, gosto de ver como desenvolver uma historia de um protagonista que não tem nada,  aprende a se virar e se torna um grande como um herói. 🧙‍ 🦸‍
 
 ## Competências e habilidades 👨‍💻
 
  - Inglês intermediário, adquirido no formato autodidata
- - C\C++, C#, Pascal (lazarus & Delphi) e Lua intermediário, adiquiridos em formato autodidata e cursos na Udemy
- - Php, HTML, JavaScript, Python e CSS, Básicos e intermediários adiquiridos em cursos gratuitos e Udemy
+ - C\C++, C#, Pascal (lazarus & Delphi) e Lua intermediário/Avançado, adquiridos em formato autodidata e cursos na Udemy
+ - Php, HTML, JavaScript, Python e CSS, Básicos e intermediários adquiridos em cursos gratuitos e Udemy
  - Usuario Windows \ Linux avançado cursado no curso da Udemy # Terminal Linux e # Introdução ao Sistema Operacional Linux
 por Criado por [Diego Mariano, Ph.D.](https://www.udemy.com/user/diego-mariano/) .
 - Design básico
