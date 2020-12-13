@@ -2,8 +2,8 @@
 ## Sobre mim:  👋🖖
 
 
-Um programador autodidata desde dos 10 anos de idade. Comecei minha jornada no mundo dos códigos em VB.net tecnologia proprietária da Microsoft com código simplista e usando a interface fácil de manejar do .NetFramework; seguindo disso um dos meus projetos que comecei e guardei desde então na mesma linha de sentindo é o [AppLauncher](https://github.com/SrShadowy/AppLauncher) uma aplicação simples para organização do desktop e leve acima de tudo para o sistema da Microsoft. 
-Um dos meus hobbies é assistir anime e jogar alguns games da categoria RPG, gosto de ver como desenvolve uma historia de um protagonista que não tem nada e aprende a se virar e se torna grande como um herói. 🧙‍ 🦸‍
+Um programador autodidata desde os 10 anos de idade. Comecei minha jornada no mundo dos códigos VB.net, tecnologia proprietária da Microsoft com código simplista e usando a interface fácil de manejar do .NetFramework; seguindo um dos meus projetos que comecei e guardei nesta linha de sentindo é o [AppLauncher](https://github.com/SrShadowy/AppLauncher) uma aplicação simples para organização do desktop para o sistema da Microsoft. 
+Um dos meus hobbies é assistir anime e jogar alguns games RPG, gosto de ver como desenvolver uma historia de um protagonista que não tem nada,  aprende a se virar e se torna um grande como um herói. 🧙‍ 🦸‍
 
 ## Competências e habilidades 👨‍💻
 
