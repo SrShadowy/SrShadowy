@@ -35,4 +35,4 @@ Dé uma olhadinha nos [meus repositórios no GitHub](https://github.com/SrShadow
     </p>
 </details>
 
-Copyright :copyright: 2020 - **SrShadowy**
+Copyright :copyright: 2020 a 2021- **SrShadowy**
