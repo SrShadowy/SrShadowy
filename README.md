@@ -19,11 +19,8 @@ por Criado por [Diego Mariano, Ph.D.](https://www.udemy.com/user/diego-mariano/)
 </p>
 
 
-
-meu perfil da Udemy [SrShadowy](https://www.udemy.com/user/erick-santos-macedo/)
 Veja meu simples [site do github](https://srshadowy.github.io/)
 Dé uma olhadinha nos [meus repositórios no GitHub](https://github.com/SrShadowy?tab=repositories)
-
 
 
 
